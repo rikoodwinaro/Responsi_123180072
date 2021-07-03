@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kasus_covid"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        android:title="Kasus Covid"
+        />
+    <item
+        android:id="@+id/rs_rujukan"
+        android:icon="@drawable/ic_baseline_local_hospital_24"
+        android:title="RS Rujukan Covid"
+        />
+</menu>
